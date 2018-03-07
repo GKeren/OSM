@@ -1,0 +1,12 @@
+{
+  "name": "la10",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "15",
+  "maxzoom": "19",
+  "scale": "1.000000",
+  "bounds": [34.73979215, 31.72507179, 34.74763494, 31.72935011],
+  "profile": "mercator"
+}

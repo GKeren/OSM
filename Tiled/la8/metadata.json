@@ -1,0 +1,12 @@
+{
+  "name": "la8",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "15",
+  "maxzoom": "19",
+  "scale": "1.000000",
+  "bounds": [34.74326140, 31.72651379, 34.75110423, 31.73079206],
+  "profile": "mercator"
+}
